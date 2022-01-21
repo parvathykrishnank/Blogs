@@ -1,1 +1,1 @@
-
+In this blog, we demonstrate how to access data from the OGD Platform of India using the Python API-Wrapper, and  visualise key trends using Plotly with the example of one dataset - "Companies registered in India"
